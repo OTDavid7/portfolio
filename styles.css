@@ -1,0 +1,105 @@
+body {
+    font-family: cursive Hagrid Light, Neue Machina, Aileron Regular, Hagrid;
+    background-color: rgb(7, 5, 20);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.nn {
+    padding: 0 4% 0 4%;
+    background-color: rgb(45, 20, 104);
+}
+
+.intro {
+    padding: 7% 0 7% 0;
+}
+
+span,
+a {
+    color: azure;
+}
+
+.profile-pic {
+    width: 100%;
+    border-radius: 100%;
+    margin: auto;
+    padding: 2%;
+}
+
+.coding-image {
+    width: 50%;
+    border-radius: 1%;
+    border: solid 2px;
+    margin: auto;
+    padding: 2%;
+}
+
+input {
+    width: 35%;
+    border-radius: 2%;
+    margin-bottom: 25%;
+}
+
+a {
+    padding-left: 2%;
+    text-decoration: none;
+}
+
+p {
+    color: rgb(199, 199, 199);
+    text-align: justify;
+    padding: 0 2% 2% 0;
+}
+
+h1,
+h3,
+h4 {
+    color: aquamarine;
+    padding-left: 2%;
+}
+h2 {
+    text-decoration: underline;
+    padding: 2% 0 2% 0;
+}
+
+p{
+    padding-left: 2%;
+}
+
+.logo {
+    width: 25%;
+    border-radius: 100%;
+    margin:auto;
+    padding-bottom: 2%;
+}
+
+#nav-a,
+h2 {
+    color: white;
+}
+
+.best-work-images {
+    width: 100%;
+    height: 50%;
+    padding: 2% 0 2% 0;
+    border-radius: 3%;
+
+}
+
+
+.best-work-images:hover {
+    opacity: .5;
+}
+
+.best-work-buton {
+    text-align: center;
+}
+
+.social {
+    text-align: center;
+    padding: 2%;
+}
+
+#h-1:hover {
+    opacity: 0.99;
+}
