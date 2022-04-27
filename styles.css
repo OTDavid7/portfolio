@@ -7,7 +7,7 @@ body {
 
 .nn {
     padding: 0 4% 0 4%;
-    background-color: black;
+    background-color: rgb(7, 5, 20);
 }
 
 .intro {
@@ -35,7 +35,7 @@ a {
 }
 
 input {
-    width: 100%;
+    width: 50%;
     border-radius: 2%;
     margin-bottom: 25%;
 }
